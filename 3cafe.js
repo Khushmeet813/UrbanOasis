@@ -53,7 +53,7 @@ const menuItems = [
         id: 6, 
         name: "Smoothie", 
         price: 70, 
-        image: "Smoothie.jpg", 
+        image: "smoothie.jpg", 
         category: "non-coffee",
         rating: 4.4,
         special: "Packed tight with vitamins and energy. A creamy combination of selected sun-ripened mixed berries and organic structural bases.",
